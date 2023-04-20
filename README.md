@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! Unfortunately, there's no content here yet, but don't
+### worry, we're working on it and it will be available soon. Thanks for
+### stopping by!
 
 <!--
 **Nutori/Nutori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
