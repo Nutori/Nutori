@@ -1,4 +1,4 @@
-### There's not much here yet, but content will be coming your way soon.
+### There's not much here yet, but content will be coming soon™.
 ### Thanks for stopping by, and I hope you have a great day!
 
 <!--
